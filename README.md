@@ -25,4 +25,5 @@ Pilih salah satu opsi:
  - Maulana Yusuf (9.021.DB2025)
  - Muhammad Raditya Aisy Dharmawan (9.056.DB2025)
 
+### Link PDF Slide
 [pdf_ppt](https://github.com/Farhan-Fadillah/KONSERVASI-MANGROVE-BERBASIS-BLOCKCHAIN/blob/052eeec88bce8e442e9ae036b7fed85aef18351b/(1)%20Blockchain%20Solution%20for%20Mangrove%20in%20Indonesia%20(Kelompok%201).pdf)
